@@ -12,7 +12,6 @@
   * [Usage](#usage)
   * [Screenshots](#screenshots)
   * [URL](#url)
-  * [Questions](#questions)
 
 
  ## User Story
@@ -63,8 +62,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## URL
 
+- [Heroku Deployed Site](https://note-taker-1101.herokuapp.com/)
 
-
-## Questions
-    For questions, contact me at:
-  #### GitHub: [micbrwn](https//github.com/micbrwn)
